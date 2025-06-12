@@ -1,4 +1,6 @@
-# React + Vite
+# candidate-readiness-dashboard
+
+This project uses **React + Vite** and serves as the frontend for the Candidate Readiness Dashboard.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
