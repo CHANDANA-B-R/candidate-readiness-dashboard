@@ -12,7 +12,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-gray-100 to-purple-100 p-6">
       <div className="max-w-5xl mx-auto bg-white shadow-lg rounded-lg p-8">
         <h1 className="text-3xl md:text-4xl font-bold text-center text-purple-700 mb-8">
-          SKANJO Candidate Readiness Dashboard
+           Candidate Readiness Dashboard
         </h1>
 
         <div className="grid md:grid-cols-2 gap-6 mb-8">
